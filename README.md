@@ -2,7 +2,12 @@
 
 Welcome to the Mitte project repository! This is a project developed as part of a thesis with the aim of providing assistance and support to people who experience color vision deficiencies. Color vision deficiency, commonly known as color blindness, is a visual condition that affects color perception, making it difficult to distinguish between certain hues. Our goal with the Mitte project is to address the needs of individuals with color vision deficiencies, providing a more enriching and inclusive visual experience.
 
-## Key Concepts
+## Current Status
+
+At the moment, the project is in its early stages of development. We have implemented a basic image processing functionality in Python that assists individuals with color vision deficiencies by enhancing color differentiation. While this initial functionality shows promise, we acknowledge that there is still a long way to go to achieve our ultimate goals.
+
+
+## Current Goals
 
 - **Color Correction:** Mitte offers the ability to adjust color display according to user preferences, enhancing differentiation between tones that would typically be confused.
 
